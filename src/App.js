@@ -1,8 +1,10 @@
 import React from 'react';
 import './App.css'
 
+import landscape from './assets/landscape.jpg';
+
 function App() {
-  return <h1>Hello world</h1> 
+  return <img src={landscape}/>
 }
 
 export default App;

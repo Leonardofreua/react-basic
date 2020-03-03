@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css'
 
-import landscape from './assets/landscape.jpg';
+import TechList from './components/TechLists';
 
 function App() {
-  return <img src={landscape}/>
+  return <TechList />
 }
 
 export default App;

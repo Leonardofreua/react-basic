@@ -1,5 +1,5 @@
 <h1 align="center">
-  React project basic
+  React basic
 </h1>
 
 <h4 align="center">

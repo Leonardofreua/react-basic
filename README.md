@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="#-tipics-covered">Topics Covered</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-minidisc-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -27,6 +28,12 @@ covered:
 - [Implementing the propeties](https://github.com/Leonardofreua/react-basic/commit/06d14d116a11625a2d69a9fa74536d217c659f93)
 - [Default Props & PropTypes](https://github.com/Leonardofreua/react-basic/commit/f1a185827e1fb0127ad45c02fad26ecacb3e9f71)
 - [ComponentDidMount and ComponentDidUpdate life cycles](https://github.com/Leonardofreua/react-basic/commit/1b163acf4c2bb19241e3abc8a6b6f49c9ddb9a64)
+
+## :minidisc: Installation
+
+- Clone project: `git clone https://github.com/Leonardofreua/react-basic.git`
+- Run: `yarn install`
+- Then: `yarn dev`
 
 ## 🤔 How to contribute
 
